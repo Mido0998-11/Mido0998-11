@@ -64,7 +64,7 @@
 
 ---
 
-## ✨ اسم بوتي (COKU) بخطوط متحركة
+## ✨ اسم بوتي (COKU) 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF4500&center=true&vCenter=true&width=600&lines=🔥+COKU+BOT+🔥;🚀+The+Legendary+AI+Bot;✨+Made+by+Mohammed+Adel+(Wezi)" />
 </p>

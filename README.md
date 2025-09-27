@@ -12,7 +12,7 @@
 
 ---
 
-# *👤 التعريف الشخصي (بزخرفة مائلة)*
+# *👤 التعريف الشخصي (عربي)*
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=FFD700&center=true&vCenter=true&width=900&lines=_🎓+أنا+*محمد+عادل+(ويزي)*_;_💻+*مطور+جافا+(Java)+ومبرمج+بوتات*_;_🚀+أبني+مشاريع+تُلهم+وتُؤثر_*" />
 </p>

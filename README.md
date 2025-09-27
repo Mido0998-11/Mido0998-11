@@ -81,7 +81,7 @@
 
 ---
 
-# *🌐 منصات الاستضافة (Hosting Platforms) — بخطوط كبيرة ومضيئة*  
+# *🌐 منصات الاستضافة (Hosting Platforms) — خطوط ويزي*  
 <p align="center">
   <!-- Big glowing heading for Hosting -->
   <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3800&color=39FF14&center=true&vCenter=true&width=1000&lines=_🌐+Hosting+Platforms+_&font=Fira%20Code" alt="Hosting Title"/>
